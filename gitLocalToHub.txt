@@ -1,0 +1,2 @@
+This is file transfered from the git init command and passed 
+to the github repository
